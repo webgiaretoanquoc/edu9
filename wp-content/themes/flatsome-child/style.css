@@ -1,0 +1,435 @@
+/*
+Theme Name: Flatsome Child
+Description: NamKiem developed for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.11.3
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+
+
+
+
+#logo img {
+	max-height:85px !important;
+}.cac-khoa-hoc .hang:hover{background:#f4f7fc}
+.cac-khoa-hoc .hang1:hover{background:#66bb1a !important}
+a.back-to-top{background:#0a5a9f !important; border:none !important; color:white !important}
+.footer-section .col{padding-bottom:0}
+.header-button-2 a{color:#58a018 !important}.footer-secondary {
+	padding: 0;
+}
+#header-contact li a{color: #545454; text-transform: none;
+	font-size: 15px;
+	letter-spacing: 0;}
+.co-hoi-section .col.large-12{padding-bottom:10px}
+.co-hoi-section .icon-box h3{ font-size:18px;   margin-bottom: 0;
+	color: #0a599e;}
+.giang-vien-section .icon-box:hover {
+	box-shadow: 5px 7px 11px #00000042;
+}
+.list-page .page-col h3:hover{text-decoration:underline}
+#menu-main-menu-right li a:hover{color:white}
+.co-hoi-section .icon-box:hover{    background: #f2fbff;
+	border: 1px solid #9de0ff;}
+.giao-vien-section .col, .chuong-trinh-section .col{padding-bottom:0}
+.chuong-trinh-section ul {
+	margin-bottom: 0;
+	background: white;
+	border-radius: 6px;
+	box-shadow: 2px 2px 20px #00000017;
+	padding: 15px;
+}
+.chuong-trinh-section .cot12 .col-inner p{margin-bottom:0}
+.chuong-trinh-section .cot12 .col-inner h3{margin-bottom: 0;
+	color: #d20000;}
+.chuong-trinh-section .cot12 .col-inner{    background: #FFECB3;
+	padding: 20px;
+	border-radius: 6px;
+	border: 2px dashed #FFC107;
+	color: #FF5722;
+	font-size: 23px;
+	font-weight: bold;}
+.giao-vien-section .icon-box .icon-box-img img{    padding-top: 0;
+	border: 6px solid #69beff;
+	box-shadow: 2px 2px 20px #0000005c;
+	border-radius: 99%;}
+.co-hoi-section .icon-box{ background:white; border:1px solid white;   border-radius: 5px;
+	padding: 15px;
+	margin-bottom: 20px;
+	box-shadow: 2px 2px 20px #00000017;}
+.list-page .page-col .col-inner{    background: white;
+	padding: 10px;
+	border-radius: 5px;}
+.list-page .page-col .box-text{padding-bottom:10px}
+.list-page .page-col h3{margin-bottom:10px; height: 22px;
+	overflow: hidden; color:#329600}
+.page-header-excerpt{display:none}
+.cac-khoa-hoc .hang{    display: flex;
+	width: 100%;
+	clear: both;
+	border-top: 1px solid #e6ecf5;}
+.cac-khoa-hoc .hang1{ border-top-left-radius: 6px;
+	border-top-right-radius: 6px;clear:both;   background: #66bb1a;
+	text-align: center;
+	color: white;
+	font-weight: bold;}
+.cac-khoa-hoc .hang .cot4{display: inline-block;
+	width: 20%;
+	float: left;line-height:50px; text-align:center}
+.cac-khoa-hoc .hang .cot3{display: inline-block;
+	width: 20%;
+	float: left;line-height:50px; text-align:center}
+.cac-khoa-hoc .hang1{font-size:15px}
+.page-col button.nut-xem-them{    margin: 0;
+	border-radius: 5px;
+	background: #F44336;
+	text-transform: none;
+	letter-spacing: 0;
+	color: #ffffff;
+	margin-top: 5px;
+	font-weight: normal;
+	min-height: 10px;
+	line-height: 20px;}
+.lich-su-lop .col .col-inner{   padding: 5px;}
+.lich-su-lop .col{padding-bottom:0; }
+.lich-su-lop .icon-box .icon-box-text p{color: #81D4FA;}
+.lich-su-lop .icon-box h3{font-size:18px; margin-bottom:0}
+.cac-khoa-hoc .hang1 .cot1, .cac-khoa-hoc .hang1 .cot2{line-height:50px; padding:0 !important}
+.cac-khoa-hoc .hang .cot2{text-align:center; padding:10px; display: inline-block;
+	width: 20%;
+	float: left;}
+.cac-khoa-hoc{border-radius:6px;    background: white;
+	box-shadow: 2px 2px 20px #0000000a;}
+.giang-vien-section .icon-box h3 span{color:white}
+.cac-khoa-hoc .cot4 a:hover{background:#2573b9; color:white}
+.footer-section{background:url(../../uploads/2019/08/bg-pattern-2.jpg)}
+.cac-khoa-hoc .cot4 a{    background: #e6efff;
+	padding: 7px 15px;
+	border-radius: 20px;
+	color: #0d5da3;}
+.giang-vien-section .icon-box .icon-box-text p, .giang-vien-section .icon-box .icon-box-text ul li span, .giang-vien-section .icon-box .icon-box-text ul li{color: #72b7f7 !important;}
+.giang-vien-section .icon-box .icon-box-img img{padding-top: 0;
+	border-radius: 99%;
+	border: 4px solid #68b2f9;
+	box-shadow: 2px 2px 20px #0000001f;}
+.lich-khai-giang-section .col, .giang-vien-section .col{padding-bottom:0}
+.giang-vien-section .icon-box{     border-radius: 15px;
+	box-shadow: 2px 2px 20px #00000017;
+	padding: 20px;
+	background: #327cc1;
+	background-image: linear-gradient(#3881c5, #1366ae, #08569a);
+	color: white;}
+.cac-khoa-hoc .hang1 .cot1{padding-left:0 !important}
+.cac-khoa-hoc .hang .cot1 a{font-weight:bold; line-height:22px !important}
+.cac-khoa-hoc .hang .cot1{padding:10px;display: inline-block;
+	width: 40%;
+	float: left;}
+.cac-khoa-hoc .hang .cot{display:inline-block; float:left}
+.list-page .page-col a:hover{color:black}
+.header-button a span{font-weight:bold}
+.loi-keu-goi-section a.button{    box-shadow: 2px 2px 20px #00000066;}
+.list-page .page-col .from_the_blog_excerpt{    height: 68px;
+	overflow: hidden;}
+.list-page .flickity-page-dots{bottom:-10px}
+button.xem-chi-tiet{    margin: 0;
+	padding: 0;
+	text-transform: none;
+	font-weight: normal;
+	line-height: 0;
+	color: gray;
+	min-height: 15px;
+}
+.khoa-hoc-section .col.large-12{padding-bottom:0}
+.khoa-hoc-section .flickity-prev-next-button svg, .khoa-hoc-section .flickity-prev-next-button .arrow {
+	border-color: currentColor;
+	fill: currentColor;
+	transition: all 0.3s;
+	background: white;
+	border-radius: 99%;
+	color: gray;
+	fill: #1e6eb5;
+}
+.co-hoi-section .col{padding-bottom:0}
+#header-contact .icon-phone:before, #header-contact .icon-envelop:before{color: #1e73be;}
+.header-button a{font-size:15px; text-transform:none; letter-spacing:0}
+#menu-main-menu-right{display:inline-block; vertical-align: middle;}
+#menu-main-menu-right li a, .header-bottom-nav li a{    padding: 12px 20px;
+	font-weight: bold;
+	color: #d2e3f2;
+	font-size: 15px;
+	text-transform: uppercase;
+	border-right: 1px solid #1462a7;
+	border-left: 1px solid #2c83d0;
+}.header-bottom-nav > li > a {
+	line-height: 26px;
+}.header-bottom {
+	background-color: #1e73be;
+	box-shadow: 0px 2px 3px #0000002e;
+	background-image: linear-gradient(#3881c5, #1366ae, #08569a);
+}
+.loi-keu-goi-section p{margin-bottom:0;    margin-top: 6px;}
+.loi-keu-goi-section .col{padding-bottom:0}
+.button span{letter-spacing:0; font-weight:normal}
+.loi-keu-goi-section a.button{margin:0}
+.slider-section .flickity-page-dots .dot {
+	width: 7px;
+	height: 7px;}
+#menu-main-menu-right{border-left: 1px solid #1462a7;
+	border-right: 1px solid #2c83d0;}
+#menu-main-menu-right li, .header-bottom-nav li{border-top:none; display:inline-block; float:left; margin:0}
+.header-block-block-1 .sidebar-wrapper{text-align:right}
+.header-block-block-1 .widget_nav_menu{margin-bottom:0}
+.thu-ngo-section .info-box .col-inner p{margin-bottom:13px}.thu-ngo-section {
+	background-color: #ffffff;
+	background-image: url(../../uploads/2019/08/bg-thu-ngo.jpg);
+}
+.section-title-center span:after {
+	content: "";
+	display: table;
+	clear: both;
+	background: url(../../uploads/2019/08/line-1.png);
+	width: 100%;
+	height: 20px;
+	background-repeat: no-repeat;
+	background-position-x: center;
+	background-position-y: bottom;
+	padding-top: 0;
+}
+.thu-ngo-section .col.large-12{padding-bottom:10px}
+.thu-ngo-section .info-box .col-inner {
+	border-radius: 5px;
+	background: white;
+	padding: 35px;
+	box-shadow: 2px 2px 20px #0000002b;
+	border-top: 13px solid transparent;
+	border-image: 16 repeating-linear-gradient(-45deg, #e00000 0, #b20000 1em, transparent 0, transparent 2em, #58a 0, #58a 3em, transparent 0, transparent 4em);
+	border-bottom: 13px solid transparent;
+}
+.section-title b {
+	background-color: transparent;
+}
+.flex-center .header-bottom-nav {border-left:none !important; border-right:none !important}
+.flex-center .header-bottom-nav {border-left:none !important; border-right:none !important}
+.header-bottom-nav .html{display:none}.section-title-container {
+	margin-bottom: 0;
+}
+.stuck .header-bottom-nav .html{    display: block !important;
+	font-style: italic;
+	font-size: 15px;
+	color: #fff900 !important;
+	font-weight: bold; }h1.entry-title.mb {
+		margin-bottom: 10px;
+		text-transform: none;
+		letter-spacing: 0;
+		font-size: 24px;
+}
+.page-right-sidebar .page-inner{box-shadow: 2px 2px 20px #00000017;
+	border-radius: 5px;
+	padding: 20px;
+}
+.page-right-sidebar .giang-vien-section, .page-right-sidebar .lich-khai-giang-section{padding:0 !important}
+.flatsome_recent_posts ul li:hover{background:#f9f9f9}
+.flatsome_recent_posts ul li{padding: 0 6px;}
+.flatsome_recent_posts ul{    border: 1px solid #ececec;}
+#breadcrumbs{border-radius: 5px;
+	margin-bottom: 15px;
+	font-size: 15px;
+	color: #4a4a4a;
+	background: #f3f3f3;
+	border-bottom: 1px solid #ececec;
+	padding: 6px 10px;
+	text-transform: none;
+	background: linear-gradient(to right, #e8e8e8 , white);
+	letter-spacing: 0;
+	font-weight: normal;
+	text-align: left;}.entry-header-text {
+		padding: 0;
+}.wp-caption{text-align:center}.xem-them .tieu-de-xem-them {
+	font-weight: 700;
+	display: block;
+	margin-bottom: 10px;
+	font-size: 18px;
+}.xem-them ul li {
+	margin-bottom: 3px;
+}.xem-them ul li a {
+	font-weight: bold;
+	color: #d80000; 
+}.danh-muc {
+	margin-bottom: 15px;
+}.danh-muc span.title, .the-tim-kiem span.title {
+	background: #0f61a7;
+	padding: 4px 10px;
+	color: white;
+	margin-right: 5px;
+}.danh-muc a, .the-tim-kiem a {
+	margin-bottom: 10px;
+	padding: 4px 10px;
+	background: #b5b5b5;
+	color: white;
+}.danh-muc a:hover, .the-tim-kiem a:hover {
+	background: gray;
+}.bai-viet-lien-quan {
+	margin-top: 20px;
+}.bai-viet-lien-quan ul {
+	margin-bottom: 0;
+	display: inline-block;
+	width: 100%;
+}.bai-viet-lien-quan ul li {
+	list-style: none;
+	width: 33.33%;
+	color: graytext;
+	float: left;
+	padding-left: 4px;
+	padding-right: 5px;
+}.bai-viet-lien-quan ul li .box-image img {
+	height: 150px;
+	object-fit: cover;
+	object-position: center;
+}.bai-viet-lien-quan ul li h3 {
+	height: 45px;
+	overflow: hidden;
+	font-size: 16px;
+	font-weight: bold;
+	color: #000;
+	margin-top: 7px;
+	line-height: 21px;
+}
+.blog-single .article-inner{    box-shadow: 2px 2px 20px #00000017;
+	border-radius: 5px;
+	padding: 20px;}
+.bai-viet-lien-quan ul li h3:hover{color:#0f61a7}
+.blog-single .entry-content p{margin-bottom:12px}.wp-caption .wp-caption-text{background:none}
+.blog-single .entry-content{padding-bottom:0}
+.blog-single .blog-share{text-align:left}
+.blog-single .entry-meta{text-transform: none;
+	color: gray;
+	font-size: 15px;
+	letter-spacing: 0;}
+.blog-archive .large-12{padding-bottom:10px}
+.blog-single .large-3{padding-left:0}.is-divider{display:none}
+.blog-single .entry-title{    font-size: 24px;}
+.blog-archive .taxonomy-description{text-align:left}
+.blog-archive .page-title{    text-align: left;
+	text-transform: none;
+	letter-spacing: 0;
+	font-size: 22px;}
+.page-right-sidebar .page-inner p{margin-bottom:10px}
+.page-right-sidebar .large-9{border-right: none}
+.page-right-sidebar .large-3{padding-left:0}
+span.widget-title {    font-weight: 600;
+	text-transform: none;
+	letter-spacing: 0;
+	font-size: 18px;
+	color: #1d6db4;
+	display: block;
+	margin-bottom: 12px
+}.widget .is-divider{display:none}
+.mr-half .badge-inner{border-radius:99%}
+.recent-blog-posts a {
+	font-weight: bold;
+	font-size: 15px;
+	color: #313131;
+}
+.recent-blog-posts .post_comments{display:none}
+.bi-quyet-section .row1 .icon-box:hover{box-shadow: 5px 6px 12px #00000040;}
+.bi-quyet-section .col{padding-bottom:0}
+.bi-quyet-section .row1 .cot3 .icon-box{  background-image: linear-gradient( #8BC34A , #689F38);
+	padding: 20px;
+	border-radius: 6px;
+	color: white;}
+.bi-quyet-section .row1 .cot2 .icon-box{    background-image: linear-gradient( #039BE5 , #0069c3);
+	padding: 20px;
+	border-radius: 6px;
+	color: white;}
+.bi-quyet-section .row1 .cot1 .icon-box{    background-image: linear-gradient( #03A9F4 , #2196F3);
+	padding: 20px;
+	border-radius: 6px;
+	color: white;}
+.hinh-anh-section .medium-4{padding:0 5px 10px}
+.san-sang-section .col{padding-bottom:0}.hinh-anh-section .col.large-12{padding-bottom:0}
+.form-lien-he .des{margin-bottom: 15px;
+	text-transform: uppercase;
+	background: #2f94ec;
+	padding: 5px 10px;
+	border-radius: 5px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+	border: 2px dashed #56b0ff;}
+.form-lien-he h3{text-align: center !important;
+	font-size: 25px;}
+.form-lien-he input[type='submit']{margin:0;    width: 100%;
+	background: #74d604;
+	border-radius: 5px;
+	padding: 3px;}
+.dang-ky-section .col{padding-bottom:0}
+form{margin-bottom:0}
+.blog-archive .large-3{padding-left:0}
+.blog-archive .post-item a:hover{color:black}
+.blog-archive .post-item .box-text{padding:0; padding-left:15px}
+.blog-archive .post-item .post-title:hover{color:#29ab0a}
+.blog-archive .post-item .post-title{    margin: 0;
+	margin-bottom: 10px;
+	font-size: 22px;
+	font-weight: normal;
+	color: #1e73be;}
+.blog-archive .large-9 .badge{display:none}.box-blog-post .is-divider{display:none}
+input[type='email'], input[type='search'], input[type='number'], input[type='url'], input[type='tel'], input[type='text'], textarea,  select{border-radius:4px; box-shadow:none}
+.hinh-anh-section .image-lightbox .box-text{padding:0}
+.chuong-trinh-section a.button{margin:0}
+.dang-ky-section .cot1 .col-inner ul{margin-bottom:0}
+.dang-ky-section .cot1 .col-inner{    background: #00305a8a;
+	padding: 30px 15px;
+	border-radius: 5px;}
+.lightbox-content .form-lien-he .des{color:white !important}
+
+@media only screen and (max-width: 48em) {
+	/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+
+
+	.off-canvas-left.mfp-ready .mfp-content{background-color: #1e73be;}
+	.off-canvas:not(.off-canvas-center) .nav-vertical li>a {
+		padding-left: 20px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		text-transform: none;
+		font-size: 16px; color:white;
+	}
+	.off-canvas:not(.off-canvas-center) .nav-vertical li ul{padding-bottom:0; background:#004f94}
+	.nav-sidebar.nav-vertical>li+li {
+		border-top: 1px solid #115a9a;
+	}.loi-keu-goi-section .col {
+		padding-bottom: 10px;
+	}.thu-ngo-section .info-box .col-inner{padding:15px}
+	.list-page .page-col{flex-basis:100% !important; max-width:100% !important}
+	.loi-keu-goi-section p span{font-size:113% !important}
+	.off-canvas:not(.off-canvas-center) .nav-vertical li ul li{border-bottom:1px solid #1263ab}.icon-angle-down:before {
+		color: #8BC34A;
+	}
+	.list-page .page-col h3 {
+		font-size: 17px;
+	}.co-hoi-section .icon-box h3 {
+		font-size: 17px;}.cac-khoa-hoc .hang .cot4{display:none}
+	.cac-khoa-hoc .hang .cot1{width:50%;     font-size: 15px;
+		line-height: 10px;
+	}
+	.cac-khoa-hoc .hang1 .cot1 {    padding: 25px 0 !important;}
+	.cac-khoa-hoc .hang .cot2{width:25%; font-size:15px;     line-height: 42px;}
+	.cac-khoa-hoc .hang .cot3{padding-top: 5px; width:25%; font-size:15px}.giang-vien-section .icon-box{margin-bottom:15px; display:block}.page-right-sidebar .large-3{padding-left:15px}
+	.page-template-default .lich-khai-giang-section{padding:0!important; background:white !important;}
+	.page-template-default .lich-khai-giang-section{padding-left:0px !important;padding-right:0px !important}.list-page .flickity-page-dots {
+		bottom: -25px;
+	}.header-main {
+		box-shadow: 2px 2px 20px #0000001f;
+	}.blog-archive .post-item .box-text{padding:0; padding-top:10px}.blog-archive .large-3{padding-left:15px}.blog-archive .post-item .post-title{font-size:19px}.blog-single .article-inner{box-shadow:none; padding:0; box-shadow:none}.bai-viet-lien-quan ul li .box-image img{height:100px}.bai-viet-lien-quan ul li{width:50%}.bai-viet-lien-quan ul li h3{font-size:15px;     height: 43px;
+		overflow: hidden;
+	}.blog-single .large-3{padding-left:15px}
+	.giang-vien-section .icon-box .icon-box-img{margin:0 auto; margin-bottom:15px}
+	.co-hoi-section .icon-box p{font-size:15px}
+	.giang-vien-section .medium-2{flex-basis:50%; max-width:50%; padding-bottom:20px}
+	.giang-vien-section .icon-box .icon-box-text{padding-left:0}
+	.cac-khoa-hoc .hang1 .cot2{line-height:20px;     padding: 10px 0 !important;}
+}
